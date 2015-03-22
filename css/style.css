@@ -116,6 +116,8 @@ p {
 
 #intro .scrollblock{
     right:0;
+    position: absolute;
+    top:0;
 }
 #intro .title{
 	text-align:right;
