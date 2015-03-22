@@ -1,0 +1,40 @@
+
+.title{
+	color:#FF9B83;
+}
+
+.ffno{
+	color:#FF9B83;
+}
+
+.button-link {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.button-link.pottery-barn{
+    background-image:url('../images/pottery-barn.jpg');
+}
+.button-link.williams-sonoma{
+    background-image:url('../images/williams_sonoma_logo.jpg');
+}
+.button-link.bed-bath{
+    background-image:url('../images/bed-bath.png');
+}
+.button-link.target{
+    background-image:url('../images/target-logo.png');
+}
+
+.fld {
+    border: 1px solid #FF9B83;
+}
+
+.submit_fld  {
+	background: none repeat scroll 0 0 #FF9B83;
+}
+
+.program img{
+	background: none repeat scroll 0 0 #FF9B83;
+}
